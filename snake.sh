@@ -413,6 +413,8 @@ game_display
 
 #set up control
 get_keypress &
+
+
 #pid for last background progress
 last_background_pid=$!
 create_keypress
